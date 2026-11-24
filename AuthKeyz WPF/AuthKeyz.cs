@@ -1227,8 +1227,7 @@ namespace AuthKeyz
             }
             catch
             {
-                return true;
-
+                return false;
             }
         }
 
